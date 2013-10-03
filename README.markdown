@@ -3,11 +3,11 @@ Domain Switcher Bookmarklets
 
 A couple of handy Firefox bookmarklets for jumping between development and production domains, without affecting the path of the page you're current on.
 
-The first bookmarklet lets you jump between a local testing domain (e.g. example.l) and and the live site (e.g. example.com), and vice versa:
+The first bookmarklet lets you jump between a local testing domain (e.g. `example.l`) and and the live site (e.g. `example.com`), and vice versa:
 
 ![Jumping from .l to .com and vice versa](https://github.com/paulherron/domain_switcher/raw/master/images/tld_switch.gif)
 
-The second one simply removes the 'subdomain' portion of a URL, which is handy for jumping from a dev site (e.g. dev.example.com) to the production site (e.g. example.com):
+The second one simply removes the 'subdomain' portion of a <abbr title="Uniform Resource Locator">URL</abbr>, which is handy for jumping from a dev site (e.g. `dev.example.com`) to the production site (e.g. `example.com`):
 
 ![Jumping from the dev domain to the production domain](https://github.com/paulherron/domain_switcher/raw/master/images/remove_subdomain.gif)
 
